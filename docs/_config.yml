@@ -20,10 +20,7 @@
 
 title: Sumeeyah Haq CIT 480 Blods
 email: sumeeyah.haq.101@my.csun.edu
-description: >- # this means to ignore newlines until "baseurl:"
-My name is Sumeeyah Haq and I am a senior at CSUN. This is my blog for
-CIT 480 where I will be posting weekly blogs about new technologies
-I have used or encountered. Stay tuned!
+description: >- # this means to ignore newlines until "baseurl:" My name is Sumeeyah Haq and I am a senior at CSUN. This is my blog for CIT 480 where I will be posting weekly blogs about new technologies I have used or encountered. Stay tuned!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  sumeeyahhaq
